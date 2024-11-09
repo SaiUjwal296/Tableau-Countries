@@ -47,7 +47,14 @@ By configuring and transforming this data, we can uncover trends and make data-d
 - **Correlation Analysis**: Explored correlations between TB rates and factors like healthcare spending and population density.
 
 ## Visualizations 🖼️
-
+[Screenshot 2024-11-09 131722.png]
+[Screenshot 2024-11-09 131842.png]
+[Screenshot 2024-11-09 131904.png]
+[Screenshot 2024-11-09 131920.png]
+[Screenshot 2024-11-09 131948.png]
+[Screenshot 2024-11-09 132003.png]
+[DashBoard.png]
+[StoryBoard.png]
 
 ## How to Use This Project 📂
 
