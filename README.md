@@ -1,4 +1,4 @@
-Here's a README for your **Tuberculosis Analysis** project based on the tools and workflow you described:
+
 
 ---
 
